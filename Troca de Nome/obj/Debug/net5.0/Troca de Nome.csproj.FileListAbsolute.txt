@@ -1,0 +1,16 @@
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.exe
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.deps.json
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.runtimeconfig.json
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.runtimeconfig.dev.json
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.dll
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\ref\Troca de Nome.dll
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\bin\Debug\net5.0\Troca de Nome.pdb
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.csproj.AssemblyReference.cache
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.AssemblyInfoInputs.cache
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.AssemblyInfo.cs
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.csproj.CoreCompileInputs.cache
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.dll
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\ref\Troca de Nome.dll
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.pdb
+C:\Users\gomes\GITHUB\Troca-de-Nome-Name-Change\Troca de Nome\obj\Debug\net5.0\Troca de Nome.genruntimeconfig.cache
